@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 gyumin8](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 [![Solved.ac
-gold](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+gyumin8](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
