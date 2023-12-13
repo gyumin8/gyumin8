@@ -27,6 +27,18 @@ Here are some ideas to get you started:
 gyumin8](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 [![Solved.ac
 gyumin8](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+
+
+
+
+
+
+
+
+
+
+
 📞 Contact 
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/gyumin8">
@@ -36,6 +48,9 @@ gyumin8](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://so
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
+
+
+
 
 🔨 Once I've used 
 <div style="display:flex; flex-direction:row;">
