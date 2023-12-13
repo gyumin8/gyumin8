@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EE5F7&random=false&width=435&lines=GIT+SUMMARY)](https://git.io/typing-svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=gyumin8)](https://git.io/streak-stats)
 
+[![Solved.ac
+gyumin8](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
